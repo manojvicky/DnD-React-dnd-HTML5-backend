@@ -1,0 +1,28 @@
+.item {
+  width: 95%;
+  height: 30px;
+  border: 1px solid lightgrey;
+  margin: auto;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+}
+.dragConatainer {
+  width: 50%;
+  padding: 5px;
+  border: 1px solid grey;
+  margin: 5px;
+}
+
+.dropContainer {
+  width: 50%;
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 5px;
+}
+.outerDiv {
+  width: 100%;
+  display: flex;
+}
